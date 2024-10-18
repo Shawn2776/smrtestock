@@ -1,0 +1,54 @@
+[
+  {
+    "optionId": "op1",
+    "questionId": "q1",
+    "type": "standard",
+    "title": "Donald Trump",
+    "shortDescription": "Donald J. Trump (R)",
+    "description": "Donald J. Trump is the 45th President of the United States.",
+    "photo": ""
+  },
+  {
+    "optionId": "op2",
+    "questionId": "q1",
+    "type": "standard",
+    "title": "Kamala Harris",
+    "shortDescription": "Kamala D Harris (D)",
+    "description": "Kamala D. Harris is the Vice President of the United States of America.",
+    "photo": ""
+  },
+  {
+    "optionId": "op3",
+    "questionId": "q1",
+    "type": "standard",
+    "title": "Cornel West",
+    "shortDescription": "Cornel J. West (I)",
+    "description": "Cornel West is an Entrepreneur.",
+    "photo": ""
+  },
+  {
+    "optionId": "op4",
+    "questionId": "q1",
+    "type": "writeIn",
+    "title": "",
+    "shortDescription": "",
+    "description": "",
+    "photo": ""
+  },
+  {
+    "optionId": "op5",
+    "questionId": "q2",
+    "type": "standard",
+    "shortDescription": "",
+    "description": "",
+    "photo": ""
+  },
+  {
+    "optionId": "op6",
+    "questionId": "q2",
+    "type": "writeIn",
+    "shortDescription": "",
+    "description": "",
+    "photo": ""
+  }
+]

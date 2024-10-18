@@ -1,50 +1,32 @@
 [
   {
-    "ballotId": "1",
-    "electionId": "1",
-    "candidates": [
-      "6795a77f-9b2b-4ada-a3f3-9fcdff4346df",
-      "5bb13268-245c-4a66-948e-7f832f18e55f"
-    ],
-    "questions": [
-      "c6a97368-55db-4708-94cb-a614577b8e3f",
-      "13641442-a9e5-4a52-aa1b-61f490cef517"
-    ]
+    "ballotId": "b1",
+    "electionId": "e1",
+    "questions": ["q1", "q2"]
   },
   {
-    "ballotId": "2",
-    "electionId": "2",
-    "candidates": [
-      "085625fd-8994-4ca4-aea5-e7577f5eb78d",
-      "bb6dff4b-c91a-4a40-9498-feff805cc012"
-    ],
-    "questions": [
-      "06835e37-8839-4c40-90a5-5d11ed87467f",
-      "7b0984d3-3405-4cd8-8c8e-d0eb1de47563"
-    ]
+    "ballotId": "b2",
+    "electionId": "e2",
+    "questions": ["q3", "q4"]
   },
   {
-    "ballotId": "3",
-    "electionId": "4",
-    "candidates": [
-      "f47e2579-4930-4074-a0a1-7eac62763831",
-      "c6a7768a-0103-464b-806f-3cb24a158528"
-    ],
-    "questions": [
-      "01abfedc-c46b-4b02-8f8e-c3a70b4b3a42",
-      "cbbb759a-1683-4419-979e-f3d532476064"
-    ]
+    "ballotId": "b3",
+    "electionId": "e3",
+    "questions": ["q5", "q6"]
   },
   {
-    "ballotId": "4",
-    "electionId": "4",
-    "candidates": [
-      "cf57f311-fc9f-42b7-a3b6-27389a59bef8",
-      "897147cb-f3da-4f88-8e44-848c41757845"
-    ],
-    "questions": [
-      "1fb6593c-bb2f-49c9-be74-dee7f41d8a01",
-      "018c7ed8-c96c-4043-a25f-cfad7b813c69"
-    ]
+    "ballotId": "b4",
+    "electionId": "e4",
+    "questions": ["q7", "q8"]
+  },
+  {
+    "ballotId": "b5",
+    "electionId": "e4",
+    "questions": ["q9", "q10"]
+  },
+  {
+    "ballotId": "b6",
+    "electionId": "e4",
+    "questions": ["q11", "q12"]
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "ballotId": "b1",
+    "questionId": "q1",
+    "voterId": "v1",
+    "dateTime": "",
+    "option": ["op1"],
+    "writeIn": ""
+  },
+  {
+    "ballotId": "b1",
+    "questionId": "q2",
+    "voterId": "v1",
+    "dateTime": "",
+    "option": ["op2"],
+    "writeIn": "Goofy"
+  }
+]

@@ -1,17 +1,20 @@
 [
   {
-    "userId": "1",
+    "userId": "u1",
     "name": "Shawn Harrington",
-    "email": "shawn.harrington@example.com"
+    "email": "shawn.harrington@example.com",
+    "plan": "free"
   },
   {
-    "userId": "2",
+    "userId": "u2",
     "name": "Abbie Harrington",
-    "email": "abbie.harrington@example.com"
+    "email": "abbie.harrington@example.com",
+    "plan": ""
   },
   {
-    "userId": "3",
+    "userId": "u3",
     "name": "Keith Harrington",
-    "email": "keith.harrington@example.com"
+    "email": "keith.harrington@example.com",
+    "plan": ""
   }
 ]

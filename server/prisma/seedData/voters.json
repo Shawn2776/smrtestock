@@ -1,38 +1,34 @@
 [
   {
-    "voterId": "82ac8005-2d06-4054-a61e-b34137b4c308",
+    "voterId": "v1",
+    "userId": "u1",
     "email": "alicevoter@testmail.org",
-    "electionId": "9edd72aa-e5e5-4cf0-b2a7-f525e17ff0bf",
     "name": "Alice Voter",
     "customVoterId": "540e6a94-d1fb-47cc-bceb-de9a17d72d64",
-    "customVoterKey": "77b9baa4-817d-4f80-8008-406b1bb57f15",
-    "hasVoted": false
+    "customVoterKey": "77b9baa4-817d-4f80-8008-406b1bb57f15"
   },
   {
-    "voterId": "79113271-f7ab-4165-b64e-c89e7d31e0c4",
+    "voterId": "v2",
+    "userId": "u1",
     "email": "bobvoter@testmail.org",
-    "electionId": "9edd72aa-e5e5-4cf0-b2a7-f525e17ff0bf",
     "name": "Bob Voter",
     "customVoterId": "917e497f-bdc0-493c-918d-3c477ffbeb73",
-    "customVoterKey": "2b87b682-2957-4919-893d-17b499f44588",
-    "hasVoted": false
+    "customVoterKey": "2b111w87b682-2957-4919-893d-17b499f44588"
   },
   {
-    "voterId": "0ac6c7c3-74c7-4009-a06b-399e19a47473",
+    "voterId": "v3",
+    "userId": "u2",
     "email": "janevoter1@example.com",
-    "electionId": "7a2cb9b5-364d-41af-bc99-7986928bc17f",
     "name": "Jane Smith Voter 1",
     "customVoterId": "303ea680-a33f-489b-86e0-89415cdc9e7c",
-    "customVoterKey": "80bb3c6e-f5b0-4aaa-aeb8-da45ec3045a0",
-    "hasVoted": false
+    "customVoterKey": "80bb3c6e-f5b0-4aaa-aeb8-da45ec3045a0"
   },
   {
-    "voterId": "d0080635-ef92-4b19-8cba-15873842c372",
+    "voterId": "v4",
+    "userId": "u2",
     "email": "johnvoter2@example.com",
-    "electionId": "1c47751d-2815-4cdd-9437-88232d5da0ed",
     "name": "John Doe Voter 2",
     "customVoterId": "e4db7850-250f-41e6-b90b-085f8ce2bb6a",
-    "customVoterKey": "ddf15dfd-3fdf-429a-bdd3-4be46cf99b8e",
-    "hasVoted": false
+    "customVoterKey": "ddf15dfd-3fdf-429a-bdd3-4be46cf99b8e"
   }
 ]

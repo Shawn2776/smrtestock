@@ -1,10 +1,24 @@
 [
   {
-    "questionId": "",
-    "ballotId": "",
-    "option1": "",
-    "option2": "",
-    "option3": "",
-    "option4": ""
+    "questionId": "q1",
+    "ballotId": "b1",
+    "type": "multiple",
+    "maxOptions": 1,
+    "minOptions": 1,
+    "title": "President of the United States",
+    "description": "Vote for the 46th President of the U.S.",
+    "random": false,
+    "abstain": false
+  },
+  {
+    "questionId": "q2",
+    "ballotId": "b1",
+    "type": "multiple",
+    "maxOptions": 1,
+    "minOptions": 1,
+    "title": "",
+    "description": "",
+    "random": false,
+    "abstain": false
   }
 ]
