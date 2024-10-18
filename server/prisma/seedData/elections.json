@@ -1,13 +1,68 @@
 [
   {
-    "electionId": "",
-    "electionName": "",
-    "electionDescription": "",
-    "electionStatus": "",
-    "electionUserId": "",
-    "electionDateStart": "",
-    "electionDateEnd": "",
-    "ballotId": "",
-    "electionType": ""
+    "electionId": "1",
+    "electionName": "Shawn Harrington's Election 1",
+    "electionDescription": "Shawn Harrington's General Election.",
+    "electionStatus": "Open",
+    "electionUserId": "1",
+    "electionDateStart": "2024-10-18",
+    "electionDateEnd": "2024-10-21",
+    "ballotId": "B1",
+    "electionType": "General"
+  },
+  {
+    "electionId": "2",
+    "electionName": "Shawn Harrington's Election 2",
+    "electionDescription": "Shawn Harrington's School Election.",
+    "electionStatus": "Open",
+    "electionUserId": "1",
+    "electionDateStart": "2024-10-23",
+    "electionDateEnd": "2024-10-26",
+    "ballotId": "B2",
+    "electionType": "School"
+  },
+  {
+    "electionId": "3",
+    "electionName": "Abbie Harrington's Election 1",
+    "electionDescription": "Abbie Harrington's General Election.",
+    "electionStatus": "Open",
+    "electionUserId": "2",
+    "electionDateStart": "2024-10-18",
+    "electionDateEnd": "2024-10-21",
+    "ballotId": "B3",
+    "electionType": "General"
+  },
+  {
+    "electionId": "4",
+    "electionName": "Abbie Harrington's Election 2",
+    "electionDescription": "Abbie Harrington's School Election.",
+    "electionStatus": "Open",
+    "electionUserId": "2",
+    "electionDateStart": "2024-10-23",
+    "electionDateEnd": "2024-10-26",
+    "ballotId": "B4",
+    "electionType": "School"
+  },
+  {
+    "electionId": "5",
+    "electionName": "Keith Harrington's Election 1",
+    "electionDescription": "Keith Harrington's General Election.",
+    "electionStatus": "Open",
+    "electionUserId": "3",
+    "electionDateStart": "2024-10-18",
+    "electionDateEnd": "2024-10-21",
+    "ballotId": "B5",
+    "electionType": "General"
+  },
+  {
+    "electionId": "6",
+    "electionName": "Keith Harrington's Election 2",
+    "electionDescription": "Keith Harrington's School Election.",
+    "electionStatus": "Open",
+    "electionUserId": "3",
+    "electionDateStart": "2024-10-23",
+    "electionDateEnd": "2024-10-26",
+    "ballotId": "B6",
+    "electionType": "School"
   }
 ]
